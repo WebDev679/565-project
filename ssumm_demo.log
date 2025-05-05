@@ -1,0 +1,11 @@
+2025-05-03 22:34:26,806 - SSumMDemo - INFO - Starting SSumM demonstration
+2025-05-03 22:34:28,637 - SSumMDemo - INFO - Running basic demonstration on DBLP
+2025-05-03 22:34:28,639 - SSumMDemo - INFO - === Demonstrating Basic SSumM Functionality ===
+2025-05-03 22:34:28,702 - SSumMDemo - INFO - Original graph: 317080 nodes, 1049866 edges, 39894908.0 bits
+2025-05-03 22:34:28,702 - SSumMDemo - INFO - Target size: 19947454 bits
+2025-05-03 22:34:28,764 - SSumM - INFO - Starting SSumM summarization for graph with 317080 nodes and 1049866 edges
+2025-05-03 22:34:28,764 - SSumM - INFO - Target summary size: 19947454 bits
+2025-05-03 22:34:30,000 - SSumM - INFO - Iteration 1/10
+2025-05-03 22:34:30,021 - SSumM - INFO - Current summary size: 45919428.0 bits
+2025-05-03 22:34:30,022 - SSumM - INFO - Current threshold: 0.5
+2025-05-03 22:34:33,142 - SSumM - INFO - Generated 97842 candidate sets
